@@ -94,6 +94,9 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    justify-content: center;
+    text-align: center;
+    word-spacing: 7rem;
 }
 
 /* spacer */
@@ -118,6 +121,8 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    color: white;
+    text-align: center;
 }
 
 /* footer section */
@@ -126,6 +131,7 @@ footer {
     height: 15vh;
     padding-top: 2.5vh;
     font-size: 3rem;
+    background-color: black;
 }
 
 /* mobile media query */
